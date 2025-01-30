@@ -17,12 +17,14 @@ Este es un proyecto de JavaScript donde los usuarios pueden ingresar los nombres
 ## Instalación
 
 1. Clona o descarga el repositorio.
-2. Abre el archivo `index.html` en tu navegador.
+ 
+Para trabajar con este proyecto en tu máquina local, debes clonar el repositorio. Si aún no lo has hecho, sigue estos pasos:
+
+1. Realiza un fork de este repositorio desde GitHub.
+2. Clona el repositorio a tu máquina usando el siguiente comando:
+```bash
+gh repo clone juanpablomcloughlin/desafio-amigo-secreto
 
 ## Licencia
 Este proyecto fue realizado por Juan Pablo Mc Loughlin como challenge sobre Lógica de Programación 
-
-```bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
-cd amigo-secreto
 
