@@ -14,6 +14,9 @@ Este es un proyecto de JavaScript donde los usuarios pueden ingresar los nombres
 - **CSS**: Estilos para la interfaz de usuario.
 - **JavaScript**: Funcionalidad para agregar amigos, realizar el sorteo y actualizar la interfaz.
 
+## Licencia
+Este proyecto fue realizado por Juan Pablo Mc Loughlin como challenge sobre Lógica de Programación 
+
 ## Instalación
 
 1. Clona o descarga el repositorio.
@@ -24,7 +27,3 @@ Para trabajar con este proyecto en tu máquina local, debes clonar el repositori
 2. Clona el repositorio a tu máquina usando el siguiente comando:
 ```bash
 gh repo clone juanpablomcloughlin/desafio-amigo-secreto
-
-## Licencia
-Este proyecto fue realizado por Juan Pablo Mc Loughlin como challenge sobre Lógica de Programación 
-
